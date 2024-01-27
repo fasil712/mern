@@ -1,5 +1,5 @@
 # MERN eCommerce Application
-Welcome to our MERN ([MongoDB](https://www.mongodb.com/), [Express.js](https://expressjs.com/), [React](https://react.dev/), [Node.js](https://nodejs.org/en)) eCommerce Application repository!
+Welcome to our MERN ([MongoDB](https://www.mongodb.com/){:target="_blank"}, [Express.js](https://expressjs.com/){:target="_blank"}, [React](https://react.dev/){:target="_blank"}, [Node.js](https://nodejs.org/en){:target="_blank"}) eCommerce Application repository!
 
 ## Overview
 Our eCommerce application is a full-stack solution designed to facilitate online shopping experiences for customers and administrators alike. Leveraging the power of the MERN stack, we offer a feature-rich platform for managing products, processing orders, and delivering seamless user experiences.
