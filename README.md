@@ -15,7 +15,7 @@ Our eCommerce application is a full-stack solution designed to facilitate online
 1. **Frontend:** React.js, CSS
 2. **Backend:** Node.js, Express.js, MongoDB
 3. **Authentication:** JSON Web Tokens (JWT)
-4. **Payment Integration:** (If applicable) Stripe, Chapa, etc.
+4. **Payment Integration:** Stripe, Chapa, etc.
 ## Getting Started
 To set up the MERN eCommerce Application locally on your machine, follow these steps:
 
