@@ -19,9 +19,9 @@ Payment Integration: (If applicable) Stripe, PayPal, etc.
 To set up the MERN eCommerce Application locally on your machine, follow these steps:
 
 Clone the repository to your local environment.
-Navigate to the project directory and install dependencies using ### `npm install`.
+Navigate to the project directory and install dependencies using `npm install`.
 Configure environment variables for database connections, authentication, and payment gateways as necessary.
-Launch the application using ### `npm start` and access it via your preferred web browser.
+Launch the application using `npm start` and access it via your preferred web browser.
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute to the project, please review our contribution guidelines for detailed instructions on getting started.
 
