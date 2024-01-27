@@ -3,7 +3,7 @@ import "./Popular.css";
 import { Item } from "../Item/Item";
 
 export const Popular = () => {
-  const BASE_URL = "https://mern-backend-api-omega.vercel.app";
+  const BASE_URL = "http://localhost:4000";
   const [popularProducts, setPopularProducts] = useState([]);
   useEffect(() => {
     fetch(`${BASE_URL}/popularinwomen`)

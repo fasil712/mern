@@ -2,7 +2,7 @@ import "./AddProduct.css";
 import upload_area from "../../Assets/upload_area.svg";
 import { useState } from "react";
 const AddProduct = () => {
-  const BASE_URL = "https://mern-backend-api-omega.vercel.app";
+  const BASE_URL = "http://localhost:4000";
   const [image, setImage] = useState(false);
   const [productDetails, setProductDetails] = useState({
     name: "",

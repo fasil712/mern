@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import cross_icon from "../../Assets/cross_icon.png";
 import "./ListProduct.css";
 const ListProduct = () => {
-  const BASE_URL = "https://mern-backend-api-omega.vercel.app";
+  const BASE_URL = "http://localhost:4000";
 
   const [allproducts, setAllProducts] = useState([]);
   const fetchInfo = async () => {

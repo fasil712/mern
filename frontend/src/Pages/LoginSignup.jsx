@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./CSS/LoginSignup.css";
 
 export const LoginSignup = () => {
-  const BASE_URL = "https://mern-backend-api-omega.vercel.app";
+  const BASE_URL = "http://localhost:4000";
   const [state, setState] = useState("Login");
   const [formData, setFormData] = useState({
     name: "",

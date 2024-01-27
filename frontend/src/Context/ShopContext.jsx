@@ -11,7 +11,7 @@ const getDefaultCart = () => {
   return cart;
 };
 export const ShopContextProvider = (props) => {
-  const BASE_URL = "https://mern-backend-api-omega.vercel.app";
+  const BASE_URL = "http://localhost:4000";
   const [all_product, setAllProduct] = useState([]);
   const [cartItems, setCartItems] = useState(getDefaultCart());
 

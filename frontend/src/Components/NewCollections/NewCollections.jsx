@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import "./NewCollections.css";
 import { Item } from "../Item/Item";
 export const NewCollections = () => {
-  const BASE_URL = "https://mern-backend-api-omega.vercel.app";
+  const BASE_URL = "http://localhost:4000";
   const [new_collection, setNew_collection] = useState([]);
   useEffect(() => {
     fetch(`${BASE_URL}/newcollections`)
