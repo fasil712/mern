@@ -19,10 +19,35 @@ My eCommerce application is a full-stack solution to facilitate online shopping 
 ## Getting Started
 To set up the MERN eCommerce Application locally on your machine, follow these steps:
 
-Clone the repository to your local environment.
-Navigate to the project directory and install dependencies using ```bash npm install```.
-Configure environment variables for database connections, authentication, and payment gateways.
-Launch the application using `npm start` and access it via your preferred web browser.
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/fasil712/mern.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start locally:
+```bash
+npm start
+```
+
+### Additional Notes
+- For production environments (skip devDependencies):
+```bash
+npm install --production
+```
+- To install a specific package:
+```bash
+npm install <package-name>
+```
+
+> **Prerequisite**: Make sure you have [Node.js](https://nodejs.org/) and npm installed.
+> 
 ## Contributing
 I contribute to the community! If you'd like to contribute to the project, please review my contribution guidelines for detailed instructions on getting started.
 
